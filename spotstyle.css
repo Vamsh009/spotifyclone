@@ -1,0 +1,16 @@
+
+
+.left{
+  width: 24vw;
+}
+
+.right{
+  width: 76vw;
+}
+
+.home ul li{
+  list-style: none;
+  width: 15px;
+  display: flex;
+  gap: 15px;
+}
